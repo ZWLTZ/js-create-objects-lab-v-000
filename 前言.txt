@@ -1,0 +1,10 @@
+使用
+在浏览器打开index.html文件
+然后在console控制台输入 mocha.run() 完毕
+
+
+了解测试mocha
+blog地址：http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html
+
+mocha官网
+地址：https://mochajs.org/
